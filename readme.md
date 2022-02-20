@@ -35,7 +35,8 @@ The purpose of this project is to develop my python skills and also give an oppo
 
 ***
 ![image of application running in console](./assets/screenshot1.png)  
-The image above shows the game in progress with the amazing GUI
+The image above shows the game after just starting. A simple application with all the possibilities to write
+There may just be a time when someone finds this useful. Enjoy
 
 ***
 

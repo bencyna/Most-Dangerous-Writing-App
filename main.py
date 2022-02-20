@@ -44,7 +44,6 @@ canvas.pack()
 
 # ToDo 2. Setup a 5 second timer
 def game_finished():
-    print("end game")
     if started:
         text.delete("1.0", 'end')
 
@@ -53,7 +52,6 @@ def game_finished():
 # If timer = 1 srt text to red
 def warning_limit():
     global started, red
-    print("warning")
     if started:
         red = True
         text.configure(foreground='red')
